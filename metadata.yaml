@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17083#Adventures-of-a-Sixpence-in-Guernsey-by-A-Native
 gutenberg_issued: '2005-11-17'
 gutenberg_type: Text
 identifiers:
